@@ -1,0 +1,25 @@
+{
+  "name": "@jacobfitzp/formvalidator",
+  "version": "1.0.0",
+  "description": "FormValidator is a powerful form validation library built with extensibility in-mind. Easily improve your forms by preventing erroneous data from being submitted, and provide meaningful error messages to users.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobFitzp/FormValidator.git"
+  },
+  "author": "Jacob Fitzpatrick <contact@jacobfitzp.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobFitzp/FormValidator/issues"
+  },
+  "homepage": "https://jacobfitzp.github.io/jacobfitzp.formvalidator.io/",
+  "devDependencies": {
+    "ts-loader": "^9.2.7",
+    "typescript": "^4.6.2",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "module": "./dist/formvalidator-es6.min.js"
+}

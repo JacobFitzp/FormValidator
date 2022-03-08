@@ -1,2 +1,7 @@
 # FormValidator
-Form validator - Prevent invalid forms from being submitted and display useful, adaptive error messages to the user. This package comes with a range of useful validators, but is also easily extendable should you wish to add your own.
+
+FormValidator is a powerful form validation library built with extensibility in-mind. Easily improve your forms by preventing erroneous data from being submitted, and provide meaningful error messages to users.
+
+## Usage
+
+Please consult our documentation here.
